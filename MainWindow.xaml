@@ -5,12 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfAula16"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Sem Título - Notepad" Height="450" Width="800" Icon="/favicon.png">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="47*"/>
-            <ColumnDefinition Width="753*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
+        <Grid.RowDefinitions>
+            
+        </Grid.RowDefinitions>
+        
     </Grid>
 </Window>
